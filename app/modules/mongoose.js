@@ -8,6 +8,6 @@ var db = mongoose.connection
 
 db.on('error', console.error.bind(console, 'mongodb error: '))
 
-db.once('open', () => console.log('mongodb connected'))
+db.once('open', () => console.log('mongodb connect'))
 
 module.exports = mongoose
