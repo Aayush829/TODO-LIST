@@ -4,7 +4,7 @@ This is a small app I made becuase I am learing this stuff. There are so many th
 
 ### Features
 1. Create New Account
-2. Login and Out
+2. Login and logOut
 3. Create a new list
 4. Create Items for the list
 5. Edit Lists
