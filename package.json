@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "todo app with login and list dashboard",
   "main": "app.js",
+  "engines": {
+    "node": "10.19.0"
+  },
   "scripts": {
     "start": "node app.js"
   },
