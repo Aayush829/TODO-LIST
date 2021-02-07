@@ -1,40 +1,29 @@
 {
-  "name": "todo-with-login",
+  "name": "todo-list",
   "version": "1.0.0",
-  "description": "todo app with login and list dashboard",
-  "main": "app.js",
-  "scripts": {
-    "start": "node app.js"
-  },
-  "author": "djorborn",
-  "license": "ISC",
+  "description": "TODO == This is a small app I made becuase I am learing this stuff. There are so many things that need to be fixed but this is the best I can do right now I think.",
+  "main": ".eslintrc.js",
   "dependencies": {
-    "cookie-parser": "^1.4.3",
-    "dotenv": "^5.0.0",
-    "express": "^4.16.2",
-    "mongoose": "^5.0.1",
-    "pug": "^2.0.0-rc.4"
+    "config": "^3.3.3",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^5.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.15",
+    "pug": "^2.0.4"
   },
-  "devDependencies": {
-    "eslint-config-standard": "^11.0.0-beta.0",
-    "eslint-plugin-import": "^2.8.0",
-    "eslint-plugin-node": "^6.0.0",
-    "eslint-plugin-promise": "^3.6.0",
-    "eslint-plugin-standard": "^3.0.1"
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/djorborn/todo-with-login.git"
+    "url": "git+https://github.com/Aayush829/TODO-LIST.git"
   },
-  "keywords": [
-    "todo",
-    "list",
-    "express",
-    "nodejs",
-    "bulma"
-  ],
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/djorborn/todo-with-login/issues"
+    "url": "https://github.com/Aayush829/TODO-LIST/issues"
   },
-  "homepage": "https://github.com/djorborn/todo-with-login#readme"
+  "homepage": "https://github.com/Aayush829/TODO-LIST#readme"
 }
