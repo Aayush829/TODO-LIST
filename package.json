@@ -4,12 +4,12 @@
   "description": "TODO == This is a small app I made becuase I am learing this stuff. There are so many things that need to be fixed but this is the best I can do right now I think.",
   "main": ".eslintrc.js",
   "dependencies": {
-    "config": "^3.3.3",
     "cookie-parser": "^1.4.5",
-    "dotenv": "^5.0.1",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "mongoose": "^5.11.15",
-    "pug": "^2.0.4"
+    "node-modules": "^1.0.1",
+    "pug": "^3.0.0"
   },
   "devDependencies": {},
   "scripts": {
